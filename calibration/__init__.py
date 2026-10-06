@@ -1,0 +1,1 @@
+"""Board calibration extension point."""

@@ -1,0 +1,1 @@
+"""Camera-independent prototype tests."""
